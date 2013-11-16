@@ -23,23 +23,31 @@
 	
 	
 	<ul id= "menu">
-	<li><a href="juank.php"><img class="fotos" src="imagenes/juank.jpg" width="300" height="300" /></a></li>
-	<li ><a href="carla.php"><img class="fotos" src="imagenes/carla.jpg" width="300" height="300" /></a></li>
-	<li> <a href="paula.php"><img class="fotos" src="imagenes/paula.jpg" width="300" height="300" /></a></li>
+	<li><a href="juanca"><img class="fotos" src="imagenes/juank.jpg" width="300" height="300" HSPACE="10" VSPACE="10"/></a></li>
+	
+	<h1> Juan Carlos Pérez </h1>
+	
+	<ol >
+	
+	<center>
+		<li class="datos">Edad: 22 años</li>
+		<li class="datos">Carrera: Ingeniería Civil en Computación mención Informática</li>
+		<li class="datos">Comuna: Maipú</li>
+	</center>
+	</ol>
 	</ul>
-	</div>
+	
+	
 </body>
 <script src="js/frases.js" type="text/javascript" ></script>
-
 <footer>
 	
-
+	
 	<ul id="logos">
 		
 		<li><a href="http://www.utem.cl"><img src="imagenes/utem.jpg" alt="Universidad Tecnologica Metropolitana" id="icci" class="logosfooter" width="300" height="100" HSPACE="10" VSPACE="10"/></a></li>
 		<li><a href="http://www.icci.cl"><img src="imagenes/iccilogocolor.png" alt="Ingeniería Civil en Computación Mención Informática" id="icci" class="logosfooter" width="100" height="100" HSPACE="10" VSPACE="10"/></a></li>
 		<li><a href="http://www.utem.cl"><img src="imagenes/utem.jpg" alt="Universidad Tecnologica Metropolitana" id="icci" class="logosfooter" width="300" height="100" HSPACE="10" VSPACE="10"/></a></li>
-		
 	</ul>
 </footer>
 
