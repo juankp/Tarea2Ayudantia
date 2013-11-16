@@ -1,0 +1,130 @@
+#cuerpo{
+	display: block;
+	width: 95%;
+	max-width: 1280px;
+	margin: 0 auto;
+	color: white;
+	
+	
+}
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+}
+
+body{
+	background-color : #464646;
+}
+
+header{
+	display: block;
+	background-color : white;
+	color: white;	
+	border-radius: 20px; /* Borde redondeado */
+	box-shadow: 0px 0px 15px #000; /* Sombra */
+	padding:15px; /* Espacio entre la imagen y el borde */
+	background:#464646; /* Color de fondo que se ve entre el espacio */
+}
+
+
+
+header, nav, main, footer {
+  margin: 1em auto;
+  padding: 1em;
+}
+
+li{
+	display: inline;
+	padding-right: 3em;
+}
+
+h1 {
+	font-size: 4em;
+	color : black;
+}
+	
+h2 {
+	font-size: 3em;
+	color : black;
+}
+	
+h3 {
+	font-size: 2.2em;
+}
+	
+h4 {
+	font-size: 1.7em;
+}
+	
+h5 {
+	font-size: 1.4em;
+}
+	
+h6 {
+	font-size: 1.1em;
+}
+
+#menu {
+	margin: 1em auto;
+	padding: 1em;
+	text-align:center;
+	
+}
+
+.fotos{
+	
+	border-radius: 20px; /* Borde redondeado */
+	box-shadow: 0px 0px 15px #000; /* Sombra */
+	padding:15px; /* Espacio entre la imagen y el borde */
+	background:black; /* Color de fondo que se ve entre el espacio */
+	
+}
+.fotos:hover {
+	border-radius: 0% 50%; /* Borde redondeado */
+	box-shadow: 0px 0px 15px #000; /* Sombra */
+	-moz-transition: all 1s;
+	-webkit-transition: all 1s;
+	cursor:pointer;
+}
+#menu ul{
+
+		margin-bottom: 2em;
+		display: block;
+		padding-right: 0;
+		display: block;
+		width: 95%;
+		max-width: 1280px;
+		margin: 0 auto;
+		border-radius: 15px;
+}
+
+#logos{
+
+	text-align : center;
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+.logosfooter{
+	border-radius: 50%; /* Borde redondeado */
+	box-shadow: 0px 0px 15px #000; /* Sombra */
+	padding:0;
+	border:0;
+	-moz-transition: all 1s;
+	-webkit-transition: all 1s;
+	-o-transition: all 1s;
+	background: white;
+
+}
+
+.logosfooter:hover{
+	box-shadow: 0; /* Con esto eliminamos la sombra */
+	border-radius: 0; /* Con esto eliminamos el borde redondeado */
+	-moz-transition: all 1s;
+	-webkit-transition: all 1s;
+	-o-transition: all 1s;
+	cursor:pointer;
+
+}
+
+
+
