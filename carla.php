@@ -23,7 +23,7 @@
 	
 	
 	<ul id= "menu">
-	<li><a href="carla.php"><img class="fotos" src="imagenes/carla.jpg" width="300" height="300" HSPACE="10" VSPACE="10"/></a></li>
+	<li><a href="carla.php"><img class="fotos" src="imagenes/carla.jpg" alt="Imagen Carla Arteaga Constanzo" width="300" height="300" HSPACE="10" VSPACE="10"/></a></li>
 	
 	<h1> Carla Arteaga Constanzo </h1>
 	
@@ -39,9 +39,9 @@
 	
 	
 </body>
-<script src="js/frases.js" type="text/javascript" ></script>
+
 <footer>
-	
+	<script src="js/frases.js" type="text/javascript" ></script>
 	
 	<ul id="logos">
 		

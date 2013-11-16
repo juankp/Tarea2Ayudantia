@@ -23,7 +23,7 @@
 	
 	
 	<ul id= "menu">
-	<li><a href="juanca"><img class="fotos" src="imagenes/juank.jpg" width="300" height="300" HSPACE="10" VSPACE="10"/></a></li>
+	<li><a href="juanca"><img class="fotos" src="imagenes/juank.jpg" alt="Imagen Juan Carlos Pérez" width="300" height="300" HSPACE="10" VSPACE="10"/></a></li>
 	
 	<h1> Juan Carlos Pérez </h1>
 	
@@ -39,10 +39,10 @@
 	
 	
 </body>
-<script src="js/frases.js" type="text/javascript" ></script>
+
 <footer>
 	
-	
+	<script src="js/frases.js" type="text/javascript"></script>
 	<ul id="logos">
 		
 		<li><a href="http://www.utem.cl"><img src="imagenes/utem.jpg" alt="Universidad Tecnologica Metropolitana" id="icci" class="logosfooter" width="300" height="100" HSPACE="10" VSPACE="10"/></a></li>
