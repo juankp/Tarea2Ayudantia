@@ -14,8 +14,8 @@
 	<div id ="cuerpo">
 	<header>
 		
-		<h1>Grupo 07</h1>
-		<h2>Presentación ISw</h2>
+		<h1>&nbsp;</h1>
+		<h2>&nbsp;</h2>
 		
 	</header>
 	
@@ -25,7 +25,7 @@
 	<ul id= "menu">
 	<li><a href="juanca"><img class="fotos" src="imagenes/juank.jpg" alt="Imagen Juan Carlos Pérez" width="300" height="300" HSPACE="10" VSPACE="10"/></a></li>
 	
-	<h1> Juan Carlos Pérez </h1>
+	<h2> Juan Carlos Pérez</h2>
 	
 	<ol >
 	

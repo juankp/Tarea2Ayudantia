@@ -14,10 +14,8 @@
 	<div id ="cuerpo">
 	<header>
 		
-		<h1>Grupo 07</h1>
-		<h2>Presentación ISw</h2>
-		
-	</header>
+		<h1>&nbsp;</h1>
+</header>
 	
 	
 	
@@ -25,7 +23,7 @@
 	<ul id= "menu">
 	<li><a href="paula.php"><img class="fotos" src="imagenes/paula.jpg" alt="Imagen Paula Lineros" width="300" height="300" HSPACE="10" VSPACE="10"/></a></li>
 	
-	<h1> Paula Lineros </h1>
+	<h2> Paula Lineros </h2>
 	
 	<ol >
 	
