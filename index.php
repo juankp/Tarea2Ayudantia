@@ -7,17 +7,15 @@
 <meta name="description" content="Presentación grupo 07 ISw" /> 
 <meta name="author" content="Grupo 07" /> 
 <link rel="stylesheet" type="text/css" media="all" href="style.css" /> 
-<title>Presentación Grupo 07 ISw</title>
+<title></title>
 </head>
 
 <body>
 	<div id ="cuerpo">
 	<header>
 		
-		<h1>Grupo 07</h1>
-		<h2>Presentación ISw</h2>
-		
-	</header>
+		<h1>&nbsp;</h1>
+</header>
 	
 	<ul id= "menu">
 	<li><a href="juank.php"><img class="fotos" src="imagenes/juank.jpg" alt="Imagen Juan Carlos Pérez" width="300" height="300" /></a></li>

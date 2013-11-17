@@ -15,15 +15,7 @@ body{
 	background-color : #464646;
 }
 
-header{
-	display: block;
-	background-color : white;
-	color: white;	
-	border-radius: 20px; /* Borde redondeado */
-	box-shadow: 0px 0px 15px #000; /* Sombra */
-	padding:15px; /* Espacio entre la imagen y el borde */
-	background:#464646; /* Color de fondo que se ve entre el espacio */
-}
+
 
 
 
@@ -45,6 +37,7 @@ padding-right: 3em;
 h1 {
 	font-size: 4em;
 	color : black;
+	background-image: url(../../../../../Desktop/utem%20w.jpg);
 }
 	
 h2 {
@@ -139,6 +132,3 @@ h6 {
 	color: black;
 	font-size: 30px;
 }
-
-
-
