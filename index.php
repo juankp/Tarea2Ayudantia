@@ -14,7 +14,7 @@
 	<div id ="cuerpo">
 	<header>
 		
-		<h1>&</h1>
+		<h1></h1>
 </header>
 	
 	<ul id= "menu">
