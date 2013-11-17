@@ -14,10 +14,8 @@
 	<div id ="cuerpo">
 	<header>
 		
-		<h1>Grupo 07</h1>
-		<h2>Presentación ISw</h2>
-		
-	</header>
+		<h1>&nbsp;</h1>
+</header>
 	
 	
 	
@@ -25,7 +23,7 @@
 	<ul id= "menu">
 	<li><a href="carla.php"><img class="fotos" src="imagenes/carla.jpg" alt="Imagen Carla Arteaga Constanzo" width="300" height="300" HSPACE="10" VSPACE="10"/></a></li>
 	
-	<h1> Carla Arteaga Constanzo </h1>
+	<h2> Carla Arteaga Constanzo </h2>
 	
 	<ol >
 	
