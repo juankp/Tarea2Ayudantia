@@ -31,6 +31,7 @@
 		<li class="datos">Edad: 22 años</li>
 		<li class="datos">Carrera: Ingeniería Civil en Computación mención Informática</li>
 		<li class="datos">Comuna: Estación Central</li>
+		<a href ="http://github.com/fandub"<li class="datos">GitHub </li></a>
 	</center>
 	</ol>
 	</ul>
