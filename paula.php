@@ -14,7 +14,7 @@
 	<div id ="cuerpo">
 	<header>
 		
-		<h1>&nbsp;</h1>
+		<a href="index.php"><h1>&nbsp;</h1></a>
 </header>
 	
 	
